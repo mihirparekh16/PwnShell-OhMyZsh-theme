@@ -23,7 +23,7 @@ To install the PwnShell Oh My Zsh theme, simply follow the instructions below:
 
 ## Screenshots
 
-PwnShell Oh My Zsh Theme Screenshot
+![pwnshell screenshot](https://user-images.githubusercontent.com/52609610/233078725-12334e2b-015a-4bd9-889d-50f5dfee2f0a.png)
 
 ## Contributing
 
