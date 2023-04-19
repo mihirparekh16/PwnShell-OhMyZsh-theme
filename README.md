@@ -17,8 +17,8 @@ Installation
 To install the PwnShell Oh My Zsh theme, simply follow the instructions below:
 
 - Clone the repository or download the theme files.
-- Copy the theme files to your Oh My Zsh custom themes directory `~/.oh-my-zsh/themes/`.
-- Update your `~/.zshrc` configuration file to set the PwnShell theme as your default theme.
+- Copy `pwnshell.zsh-theme` to your Oh My Zsh custom themes directory `~/.oh-my-zsh/themes/`.
+- Update your `~/.zshrc` configuration file to set the **pwnshell** theme as your default theme.
 - Restart your shell or run `source ~/.zshrc` command to reload the configuration.
 
 ## Screenshots
