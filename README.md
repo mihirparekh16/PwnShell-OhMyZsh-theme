@@ -33,4 +33,4 @@ Contributions to the PwnShell Oh My Zsh theme are welcome! If you have any bug r
 The PwnShell Oh My Zsh theme is open source and available under the MIT License.
 
 ## Credits
-The PwnShell Oh My Zsh theme was inspired by various shell prompt themes available in the community, and was developed and maintained by Your Name. Special thanks to all the contributors for their valuable contributions.
+The PwnShell Oh My Zsh theme was inspired by various shell prompt themes available in the community. Special thanks to all the contributors for their valuable contributions. Thanks to ChatGPT for the Readme.md
